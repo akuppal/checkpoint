@@ -1,0 +1,59 @@
+{
+  "model": "gpt-5-nano",
+  "accs": [
+    0.642,
+    0.632,
+    0.62,
+    0.672,
+    0.59,
+    0.562,
+    0.584,
+    0.7,
+    0.536,
+    0.632
+  ],
+  "mean": 0.617,
+  "order_sensitivity_std": 0.04733075110327322,
+  "demo_set": [
+    {
+      "text": "Shell shock as oil giant merges to become one company. The oil giant Shell yesterday unveiled plans to merge its British and Dutch halves into a single company under the control of a unified board in what marks the most sweeping",
+      "label": 2,
+      "name": "Business"
+    },
+    {
+      "text": "US Air Reaches Giveback Deal with Pilots (Reuters). Reuters - Bankrupt US Airways Group Inc.\\ reached a tentative agreement on Friday with\\negotiators for its pilots union on #36;300 million in annual\\concessions.",
+      "label": 2,
+      "name": "Business"
+    },
+    {
+      "text": "337,500 FEET: Space ship takes victory roll. After an unplanned quot;victory roll quot; as SpaceShipOne climbed to more than 63 miles above Earth, civilian astronaut Mike Melvill glided the rocket plane to a safe landing Wednesday, putting his team in the lead to capture the \\$10 million Ansari X Prize",
+      "label": 3,
+      "name": "Sci/Tech"
+    },
+    {
+      "text": "Railroad uses IP net to control signals, switches. The Burlington Northern and Santa Fe Railway is nearing the completion of a \\$30 million, government-funded IP network that will support combined voice, data and video traffic along a heavily used rail corridor between Seattle and Tacoma.",
+      "label": 3,
+      "name": "Sci/Tech"
+    },
+    {
+      "text": "Crisis summit for clubs in turmoil. In moments of crisis, it can be comforting to know that there is someone worse off. It may be a small crumb, but it is one that both Real Madrid and AS Roma cling to gratefully as they",
+      "label": 1,
+      "name": "Sports"
+    },
+    {
+      "text": "US Ryder Cup players need new incentive. Golf analysts and fans will be discussing - and dissing - the US team #39;s flop for some time. Europe handed the US its worst defeat ever, 18 1/2 to 9 1/2, at Oakland Hills Country Club.",
+      "label": 1,
+      "name": "Sports"
+    },
+    {
+      "text": "China Hints U.S. Must Return Guantanamo Separatists. BEIJING (Reuters) - Beijing has hinted that if the United States releases any Guantanamo Bay detainees from its restive Muslim far west Xinjiang region, they should be handed over to Beijing and not sent to a third country.",
+      "label": 0,
+      "name": "World"
+    },
+    {
+      "text": "Crime Wave Against Tourists in Rio Sparks Concern. &lt;p&gt;&lt;/p&gt;&lt;p&gt; By Andrei Khalip&lt;/p&gt;&lt;p&gt; RIO DE JANEIRO, Brazil (Reuters) - Brazilian authoritiessought ways to make Rio de Janiero tourist spots safer onTuesday amid sharp criticism of police after 24 muggings over aholiday weekend.&lt;/p&gt;",
+      "label": 0,
+      "name": "World"
+    }
+  ]
+}
